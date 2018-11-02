@@ -1,6 +1,6 @@
 namespace FizzBuzz
 {
-    public class Converter
+    public class Core
     {
         
     }

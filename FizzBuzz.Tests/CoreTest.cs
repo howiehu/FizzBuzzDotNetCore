@@ -1,6 +1,6 @@
 namespace FizzBuzz.Tests
 {
-    public class ConverterTest
+    public class CoreTest
     {
         
     }
